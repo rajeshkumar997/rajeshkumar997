@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar997&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumar997" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeshk22143332" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshk22143332?logo=twitter&style=for-the-badge" alt="rajeshk22143332" /></a> </p>
 
@@ -36,5 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumar997&" alt="rajeshkumar997" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar997&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumar997" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkumar997" alt="rajeshkumar997" /></a> </p>
