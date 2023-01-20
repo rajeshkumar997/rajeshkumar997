@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **rajekumar7589@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@rajeshk22143332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajeshk22143332" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajesh-kumar-999a8b1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-kumar-999a8b1bb/" height="30" width="40" /></a>
 <a href="https://fb.com/rajeshvishwa978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajeshvishwa978" height="30" width="40" /></a>
