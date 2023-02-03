@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT**
+- 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/REACT.JS**
 
 - 📫 How to reach me **rajekumar7589@gmail.com**
 <br />
